@@ -1,11 +1,11 @@
 # About
 
 `vscode-sembr` is a work-in-progress VSCode linter extension which will support the
-[Semantic Line Breaks specification](https://sembr.org)
+[Semantic Line Breaks specification](https://sembr.org).
 
 ## Features
 
-The extension will add commands to the Command Palette 
+The extension will add commands to the Command Palette
 to format a supported document with semantic line breaks.
 
 ![Semantic line breaks](./example.png)
