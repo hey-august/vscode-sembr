@@ -17,3 +17,8 @@ Coming soon!
 ## Known Issues
 
 This is a work-in-progress extension and is **not currently functional.**
+
+## Help Build It
+
+Seeking contributors!
+If you'd like to make this extension a reality, get in touch!
